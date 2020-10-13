@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Salut Chloé");
         System.out.println("Salut Mélyne");
         System.out.println("Salut Johanna");
+        System.out.println("Salut Kévin");
     }
 }
